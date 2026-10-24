@@ -1,0 +1,6 @@
+{
+  "name": "HabitPulse - Daily Routine & Energy Tracker",
+  "description": "An ultra-slick daily routine and energy correlation tracker with streak analytics, weekly insights, and data portability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
